@@ -1,4 +1,4 @@
-# Computing Maximum Likelihood using MCMC
+# Maximum Likelihood Estimation using MCMC
 
 ### Orstein Uhlenbeck simulation
 
